@@ -1,0 +1,11 @@
+/Users/azm/projects/edu/CarRacing/CarRacing.Entities/bin/Debug/net8.0/CarRacing.Entities.deps.json
+/Users/azm/projects/edu/CarRacing/CarRacing.Entities/bin/Debug/net8.0/CarRacing.Entities.dll
+/Users/azm/projects/edu/CarRacing/CarRacing.Entities/bin/Debug/net8.0/CarRacing.Entities.pdb
+/Users/azm/projects/edu/CarRacing/CarRacing.Entities/obj/Debug/net8.0/CarRacing.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azm/projects/edu/CarRacing/CarRacing.Entities/obj/Debug/net8.0/CarRacing.Entities.AssemblyInfoInputs.cache
+/Users/azm/projects/edu/CarRacing/CarRacing.Entities/obj/Debug/net8.0/CarRacing.Entities.AssemblyInfo.cs
+/Users/azm/projects/edu/CarRacing/CarRacing.Entities/obj/Debug/net8.0/CarRacing.Entities.csproj.CoreCompileInputs.cache
+/Users/azm/projects/edu/CarRacing/CarRacing.Entities/obj/Debug/net8.0/CarRacing.Entities.dll
+/Users/azm/projects/edu/CarRacing/CarRacing.Entities/obj/Debug/net8.0/refint/CarRacing.Entities.dll
+/Users/azm/projects/edu/CarRacing/CarRacing.Entities/obj/Debug/net8.0/CarRacing.Entities.pdb
+/Users/azm/projects/edu/CarRacing/CarRacing.Entities/obj/Debug/net8.0/ref/CarRacing.Entities.dll

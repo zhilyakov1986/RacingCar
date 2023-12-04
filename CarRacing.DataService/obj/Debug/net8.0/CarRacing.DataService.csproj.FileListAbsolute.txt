@@ -1,0 +1,17 @@
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/bin/Debug/net8.0/CarRacing.DataService.deps.json
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/bin/Debug/net8.0/CarRacing.DataService.dll
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/bin/Debug/net8.0/CarRacing.DataService.pdb
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/obj/Debug/net8.0/CarRacing.DataService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/obj/Debug/net8.0/CarRacing.DataService.AssemblyInfoInputs.cache
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/obj/Debug/net8.0/CarRacing.DataService.AssemblyInfo.cs
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/obj/Debug/net8.0/CarRacing.DataService.csproj.CoreCompileInputs.cache
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/obj/Debug/net8.0/CarRacing.DataService.dll
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/obj/Debug/net8.0/refint/CarRacing.DataService.dll
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/obj/Debug/net8.0/CarRacing.DataService.pdb
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/obj/Debug/net8.0/ref/CarRacing.DataService.dll
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/bin/Debug/net8.0/CarRacing.DataService.runtimeconfig.json
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/bin/Debug/net8.0/CarRacing.Entities.dll
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/bin/Debug/net8.0/CarRacing.Entities.pdb
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/obj/Debug/net8.0/CarRacing.DataService.csproj.AssemblyReference.cache
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/obj/Debug/net8.0/CarRacing.DataService.csproj.CopyComplete
+/Users/azm/projects/edu/CarRacing/CarRacing.DataService/obj/Debug/net8.0/CarRacing.DataService.genruntimeconfig.cache
